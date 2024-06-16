@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URI = "http://localhost:5000";
+const API_URI = "https://student-speaks-back.vercel.app";
 
 // function to login user
 export const loginUser = async (userData) => {
