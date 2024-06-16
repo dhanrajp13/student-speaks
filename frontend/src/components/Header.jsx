@@ -20,7 +20,7 @@ const Header = () => {
                         <div className='flex'>
                             <img src='docs.svg' alt='' className='size-10' />
                             <h1 className='mx-2 align-middle'>
-                                Document Sharing Portal
+                                Student Speaks
                             </h1>
                         </div>
                     </Link>
